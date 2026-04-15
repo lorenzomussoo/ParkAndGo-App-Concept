@@ -12,8 +12,6 @@ Finding parking in busy urban areas is a common source of stress and wasted time
 ## 🎨 UI/UX Prototype Showcases
 Although this project did not involve backend programming, a complete high-fidelity mockup of the user interface was designed to simulate the user journey.
 
-![Menu](UI Screenshots/04 - Main Menu.jpg)
-
 **Key Screens Designed:**
 * **Authentication:** Login and Registration flows.
 * **Navigation:** Main interactive menu and integrated Search Map.
